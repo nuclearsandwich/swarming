@@ -4,4 +4,5 @@
  {:name "Kevin Downey"}
  {:name "Russell Branca" :url "http://chewbranca.com"}
  {:name "Chris Bilson"}
- {:name "Stan Dyck" :url "http://sgd.homelinux.net"}]
+ {:name "Stan Dyck" :url "http://sgd.homelinux.net"}
+ {:name "Nick Dimiduk" :url "http://www.n10k.com"}]

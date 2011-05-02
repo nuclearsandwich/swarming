@@ -86,4 +86,9 @@
  :reducate
  {:name "Reducate"
   :url "https://github.com/Seajure/reducate"
-  :description "A reduce-like macro."}}
+  :description "A reduce-like macro."}
+
+ :lein-hadoop
+ {:name "lein-hadoop"
+  :url "https://github.com/ndimiduk/lein-hadoop"
+  :description "leiningen plugin for generating hadoop-compatible jars."}}
