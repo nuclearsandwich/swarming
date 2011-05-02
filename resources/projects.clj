@@ -91,4 +91,10 @@
  :lein-hadoop
  {:name "lein-hadoop"
   :url "https://github.com/ndimiduk/lein-hadoop"
-  :description "leiningen plugin for generating hadoop-compatible jars."}}
+  :description "leiningen plugin for generating hadoop-compatible jars."}
+
+ :slamhound
+ {:name "Slamhound"
+  :url "https://github.com/technomancy/slamhound"
+  :description "Blow your namespace to bits and reconstruct it from the pieces."}
+ }
