@@ -97,4 +97,10 @@
  {:name "Slamhound"
   :url "https://github.com/technomancy/slamhound"
   :description "Blow your namespace to bits and reconstruct it from the pieces."}
+ 
+ :emacs-clojure-vagrant
+ {:name "emacs-clojure-vagrant"
+  :url "https://github.com/Seajure/emacs-clojure-vagrant"
+  :description "An easy development environment for clojure."}
  }
+
