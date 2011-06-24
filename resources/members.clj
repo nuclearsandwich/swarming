@@ -5,4 +5,5 @@
  {:name "Russell Branca" :url "http://chewbranca.com"}
  {:name "Chris Bilson"}
  {:name "Stan Dyck" :url "http://sgd.homelinux.net"}
- {:name "Nick Dimiduk" :url "http://www.n10k.com"}]
+ {:name "Nick Dimiduk" :url "http://www.n10k.com"}
+ {:name "Justin Lilly" :url "http://justinlilly.com"}]
