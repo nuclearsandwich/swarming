@@ -16,7 +16,7 @@ Also contains a few files for setting up swarm coding sessions in the
 
     $ sudo adduser swarm --gecos "" # set password to swarm
     $ sudo -u swarm -i
-    $ wget git.io/swarmup
+    $ wget git.io/swarmup.sh
     $ sh swarmup.sh
 
 ## License

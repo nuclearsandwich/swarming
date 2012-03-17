@@ -8,7 +8,7 @@ if [ "$USER" != "swarm" ]; then
     echo "$ Create a swarm user and run this script as that user."
     echo "  sudo adduser swarm --gecos \"\" # set password to swarm"
     echo "  sudo -u swarm -i"
-    echo "  wget git.io/swarmup"
+    echo "  wget git.io/swarmup.sh"
     echo "  sh swarmup.sh"
     exit 1
 fi
@@ -52,4 +52,5 @@ echo "fi" >> .profile
 
 echo "\nSweet; launch \"TERM=xterm-256color tmux\""
 echo "... and you'll be ready to host a swarm coding session."
-echo "\nHave people log in as $USER@$(hostname).local using the swarm keypair."
+echo "\nHave people log in as $USER@$(hostname).local using the swarm keypair"
+echo "available at http://git.io/id_swarm."
