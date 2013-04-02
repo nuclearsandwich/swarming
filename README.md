@@ -2,6 +2,8 @@
 
 A set of scripts and dotfiles to bootstrap swarm coding.
 
+**Wanna get started right away? Check out [Syme](https://syme.herokuapp.com/) from [@technomancy](https://github.com/technomancy)**
+
 ## Usage
 
 ***NOTE:*** Only the host of the swarming session needs to follow the
